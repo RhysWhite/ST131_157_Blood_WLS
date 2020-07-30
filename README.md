@@ -2,11 +2,6 @@
 This repository provides *de novo* assemblies of paired-end short-read sequencing data for our phylogenomic study of *E. coli* sequence type (ST)131 in an accessible format. If you use this data in your publications please cite:
 
 ```
-Kidsley AK^, White RT, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson JR, O'Dea M, 
-Mollinger JL, Abraham S*,Trott DJ*. Companion animals are spillover hosts of the 
-multidrug-resistant human extraintestinal Escherichia coli pandemic clones ST131 and ST1193.
-Frontiers in Microbiology, (in press).
-
 White RT, Bull MJ, Barker CR, Arnott J, Wootton M, Howe RA, Morgan M, Connor TR^,
 Beatson SA^. Using whole-genome sequencing to characterise nosocomial bacteraemia 
 caused by Escherichia coli sequence type (ST)131 in Wales, United Kingdom. <Publication>,
