@@ -1,2 +1,29 @@
-# Using whole-genome sequencing to characterise nosocomial bacteraemia caused by Escherichia coli sequence type (ST)131 in Wales, United Kingdom
-Data for: Using whole-genome sequencing to characterise nosocomial bacteraemia caused by Escherichia coli sequence type (ST)131 in Wales, United Kingdom
+# Using Whole-Genome Sequencing to Characterise Nosocomial Bacteraemia caused by *Escherichia coli* Sequence Sype (ST)131 in Wales, United Kingdom
+This repository provides *de novo* assemblies of paired-end short-read sequencing data for our phylogenomic study of *E. coli* sequence type (ST)131 in an accessible format. If you use this data in your publications please cite:
+
+```
+Kidsley AK^, White RT, Beatson SA, Saputra S, Schembri MA, Gordon D, Johnson JR, O'Dea M, 
+Mollinger JL, Abraham S*,Trott DJ*. Companion animals are spillover hosts of the 
+multidrug-resistant human extraintestinal Escherichia coli pandemic clones ST131 and ST1193.
+Frontiers in Microbiology, (in press).
+
+White RT, Bull MJ, Barker CR, Arnott J, Wootton M, Howe RA, Morgan M, Connor TR^,
+Beatson SA^. Using whole-genome sequencing to characterise nosocomial bacteraemia 
+caused by Escherichia coli sequence type (ST)131 in Wales, United Kingdom. <Publication>,
+(in press).
+
+^CORRESPONDING AUTHORS
+```
+
+The Illumina sequence read data have been submitted to the European Bioinformatics Institute (EMBL-EBI) European Nucleotide Archive (ENA) under Bioproject number <INSERT> (157 paired reads).
+
+## Manifest
+Contains:
+- Assemblies/ - the assembled contigs from Velvet that have been ordered against *E. coli* ST131 strain EC958 (GenBank: [HG941718.1](https://www.ncbi.nlm.nih.gov/nuccore/HG941718.1)) described by [Forde *et al.* (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4134206/).
+  - Contigs from the draft assemblies were ordered against the complete chromosome of EC958 using [Mauve](http://darlinglab.org/mauve/mauve.html) by [Darling, *et al*. (2004)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC442156/).
+- The assembly statistics are provided.
+
+## Matching the SRA accession to strain identifier
+
+The following table facilitates this:
+
