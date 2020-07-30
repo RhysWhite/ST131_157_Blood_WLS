@@ -22,3 +22,23 @@ Contains:
 
 The following table facilitates this:
 
+
+## Getting the data
+Note: The data is ~825 MB
+
+**Option 1) Download the current release as an archive:**
+```
+$ wget https://github.com/RhysWhite/ST131_157_Blood_WLS/archive/master.zip -O ST131_157_Blood_WLS_v1.tar.gz
+$ unzip ST131_157_Blood_WLS_v1.tar.gz
+```
+
+**Option 2) Clone the current master branch in this repository:**
+
+Please ensure you have git installed. git can be really useful for scientists. See [here](http://blogs.biomedcentral.com/bmcblog/2013/02/28/version-control-for-scientific-research/) for some discussion.
+
+With git:
+
+```
+$ git clone --recursive https://github.com/RhysWhite/ST131_157_Blood_WLS.git 
+# The --recursive option is used to pull down all the smaller repositories
+```
