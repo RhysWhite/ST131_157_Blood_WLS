@@ -10,7 +10,7 @@ caused by Escherichia coli sequence type (ST)131 in Wales, United Kingdom. <Publ
 ^CORRESPONDING AUTHORS
 ```
 
-The Illumina sequence read data have been submitted to the European Bioinformatics Institute (EMBL-EBI) European Nucleotide Archive (ENA) under Bioproject number <INSERT> (157 paired reads).
+The Illumina sequence read data have been submitted to the European Bioinformatics Institute (EMBL-EBI) European Nucleotide Archive (ENA) under Bioproject number _______ (157 paired reads).
 
 ## Manifest
 Contains:
