@@ -1,16 +1,16 @@
-# Using Whole-Genome Sequencing to Characterise Nosocomial Bacteraemia caused by *Escherichia coli* Sequence Sype (ST)131 in Wales, United Kingdom
+# Genomic epidemiology reveals geographical clustering of multi-drug-resistant *Escherichia coli* sequence type (ST)131 associated with bacteraemia in Wales, United Kingdom
 This repository provides *de novo* assemblies of paired-end short-read sequencing data for our phylogenomic study of *E. coli* sequence type (ST)131 in an accessible format. If you use this data in your publications please cite:
 
 ```
-White RT, Bull MJ, Barker CR, Arnott J, Wootton M, Howe RA, Morgan M, Connor TR^,
-Beatson SA^. Using whole-genome sequencing to characterise nosocomial bacteraemia 
-caused by Escherichia coli sequence type (ST)131 in Wales, United Kingdom. <Publication>,
-(in press).
+White RT, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M, Ashcroft MM,
+Forde BM, Connor TR^, Beatson SA^. Genomic epidemiology reveals geographical clustering of 
+multidrug-resistant Escherichia coli sequence type (ST)131 associated with bacteraemia in 
+Wales, United Kingdom. medRxiv:12073907v2 [Preprint]. 2021. Available from: <Publication>
 
 ^CORRESPONDING AUTHORS
 ```
 
-The Illumina sequence read data have been submitted to the European Bioinformatics Institute (EMBL-EBI) European Nucleotide Archive (ENA) under Bioproject number _______ (157 paired reads).
+The Illumina sequence read data have been submitted to the National Center for Biotechnology Information (NCBI) sequence read archive (SRA) under Bioproject number [PRJNA729115](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA729115) (157 paired reads).
 
 ## Manifest
 Contains:
