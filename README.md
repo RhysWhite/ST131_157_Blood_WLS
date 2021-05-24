@@ -5,7 +5,8 @@ This repository provides *de novo* assemblies of paired-end short-read sequencin
 White RT, Bull MJ, Barker CR, Arnott JM, Wootton M, Jones LS, Howe RA, Morgan M, Ashcroft MM,
 Forde BM, Connor TR^, Beatson SA^. Genomic epidemiology reveals geographical clustering of 
 multidrug-resistant Escherichia coli sequence type (ST)131 associated with bacteraemia in 
-Wales, United Kingdom. medRxiv:12073907v2 [Preprint]. 2021. Available from: <Publication>
+Wales, United Kingdom. medRxiv:21257487v1 [Preprint]. 2021. Available from: 
+https://www.medrxiv.org/content/10.1101/2021.05.21.21257487v1 doi: 10.1101/2021.05.21.21257487
 
 ^CORRESPONDING AUTHORS
 ```
